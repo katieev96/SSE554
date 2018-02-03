@@ -8,3 +8,13 @@ c:\users\theresa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.c
 c:\users\theresa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
 c:\users\theresa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
 c:\users\theresa\source\repos\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csprojResolveAssemblyReference.cache
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.Cache
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb

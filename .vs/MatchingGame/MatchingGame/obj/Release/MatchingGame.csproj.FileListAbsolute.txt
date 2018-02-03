@@ -1,0 +1,9 @@
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\bin\Release\MatchingGame.exe.config
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\bin\Release\MatchingGame.exe
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\bin\Release\MatchingGame.pdb
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Release\MatchingGame.Form1.resources
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Release\MatchingGame.Properties.Resources.resources
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Release\MatchingGame.csproj.GenerateResource.Cache
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Release\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Release\MatchingGame.exe
+C:\Users\Theresa\source\repos\SSE554New\.vs\MatchingGame\MatchingGame\obj\Release\MatchingGame.pdb
